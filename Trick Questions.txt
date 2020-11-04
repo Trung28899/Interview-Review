@@ -1,0 +1,54 @@
+1. Where to put <link> tag and <script> tag in html ? 
+    Answer: both of these tags can be put anywhere within the
+            html file
+
+            for <script>, if put within the head tag > won't have
+            full access to the DOM elements. This will only put 
+            available library and functions for usage
+            
+            should put <script></script> at the end of body tag 
+            to get full DOM access
+
+            <link> should be put on the top > document has access of
+            styling from the begining
+
+    Additional: <link> tag is used to link an external 
+    stylesheet file
+    <script> tag is used to embed a client side script
+    or link to external client side script
+
+2. Roles of HTML, CSS and Javascript (or what are those) ?
+    - HTML (Hypertext Markup language) is a markup language 
+        that is used to give data
+        meaning and structure
+    - CSS (Cascading Stylesheet) is a language that is used to
+        style an html document
+    - JS (Javascript): is a web programming language. Enable more
+        interaction and complex features on web pages. Allow
+        front-end data handling
+
+
+Hard questions Boost interview: 
+
+1. Technical: 
+    - What is the different between inline, block and inline block ?
+    - What is callback function ? (hint for research: AJAX, call back queue) 
+    - display: none vs visibility: hidden
+    - display: inline, block, inline-block
+    - Different between GET and POST method
+    - What is window.preventDefault() ? (hint for research: prevent submit button)
+    - Different between <script>, <script async> and <script defer> ?
+    - What is XSS ? (hint for research: this is a concept)
+    - Understanding about Lazy Loading library ?
+
+2. Non technical:
+    - Critical Thinking: estimate how much cafe bean was sold a day ? 
+        For this we need to take the input: how many customer a day 
+            How big is the coffe shop, etc.
+        > give output based on this
+    
+    - Any features implemented in any of your project that you're proud of ?
+        > Need to show technical skills
+
+    - What is your dream ?
+    - What is your strength and weaknesses
