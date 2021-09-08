@@ -35,3 +35,27 @@
     
     c. image and video: 
         - Nothing much to notice, see index.html
+
+5. HTML Interview Questions: 
+
+https://www.interviewbit.com/html-interview-questions/
+
+do 3 each day
+
+    1, Tags vs Elements: 
+        - Tag is a part of an Element
+        - There are 2 types of tags: <h1> is the opening tag, </h1> is the closing tag
+        - <h1> Some Text </h1>: is an Element
+
+    2, What are tags and attributes in HTML: 
+        - Tags define how the content in the webpage will be strutured and formatted
+        - Attributes provide additional information / characteristics about the tag. 
+
+        For i.e: <img src="./image.jpg" />
+            <img>: is tag
+            src is attributes
+
+    3, Void Elements in HTML: 
+        - Are Element which does not have a closing tag or do not need to be closed
+
+        For i.e: <img src="./image.jpg" />
