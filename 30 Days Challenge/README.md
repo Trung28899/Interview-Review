@@ -16,3 +16,8 @@ Learnt Each Day:
         - Event: transitionend
 
         - Add and remove styles classes, Animation with JS
+
+    *, Day 2:
+        - How to use transform for animation
+        - 360 degree animation
+        - How to run a function every 1s

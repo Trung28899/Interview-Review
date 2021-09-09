@@ -45,6 +45,7 @@
     a. CSS grid: 
         - flexbox is 1 dimensional layout, css grid
             is 2 dimensional layout
+            
         - See folder CSS-grid:
             +, index.html: basic attribute: 
                 display: grid;
