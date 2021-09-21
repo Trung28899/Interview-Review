@@ -6,7 +6,7 @@
 
     https://www.youtube.com/results?search_query=javascript+30+days+challenge
 
-Learnt Each Day:
+Review / Learnt Each Day:
 
     *, Day 1:
         - Listen for keyboard events
@@ -21,3 +21,8 @@ Learnt Each Day:
         - How to use transform for animation
         - 360 degree animation
         - How to run a function every 1s
+
+    *, Day 3:
+        - CSS variable setup
+        - How to update CSS variable using JS
+        - Access <input> properties using JS
