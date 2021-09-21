@@ -26,3 +26,6 @@ Review / Learnt Each Day:
         - CSS variable setup
         - How to update CSS variable using JS
         - Access <input> properties using JS
+
+    *, Day 4:
+        - Practice Array algorithms
