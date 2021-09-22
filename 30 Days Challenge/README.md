@@ -29,3 +29,7 @@ Review / Learnt Each Day:
 
     *, Day 4:
         - Practice Array algorithms
+
+    *, Day 5:
+        - Review CSS Flex-box, Animation, Nested Flex-box
+        - JS transitionend event
