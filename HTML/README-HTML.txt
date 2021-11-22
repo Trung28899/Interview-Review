@@ -1,3 +1,5 @@
+Video: https://www.youtube.com/watch?v=UB1O30fR-EE
+
 1. What is it ?
     - HyperText Markup Language
     - This is a markup language that is used to 
